@@ -126,6 +126,8 @@ sidebar_label: Movies and TV shows
 - [puretoons](https://puretoons.me/) - Animated Hindi movies.
 - [deadtoonsindia](https://deadtoonsindia.ne) - Animated Hindi movie & tv shows.
 - [reelgood](https://reelgood.com/) -Legal Multi Service provider for Netflix, Hulu & Co.
+- [Phullidownload](https://phullidownload.blogspot.com/) -Here You Can Get Full Details About Latest Doraemon Movies, Latest Doraemon Cartoon, New Doraemon Episodes And best kids Movies.
+
 
 ### Streaming 1080p
 
